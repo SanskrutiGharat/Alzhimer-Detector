@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+transformers
+torch
+torchaudio
+librosa
+soundfile
+fuzzywuzzy
+python-Levenshtein
+scikit-learn
+spacy
+nltk
+numpy
